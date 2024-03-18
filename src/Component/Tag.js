@@ -5,11 +5,13 @@ import Spinner from "./Spinner";
 import useGif from "../hooks/useGif";
 
 
+// random giphy api link
 const API_KEY = process.env.REACT_APP_GIPHY_API_KEY;
 const Tag = () => {
     const [tag, setTag] = useState("Dog");
     // const [gif, setGif] = useState('');
     // const [loading, setLoading] = useState('false ');
+    //
    
 
     // async function fetchData() {
