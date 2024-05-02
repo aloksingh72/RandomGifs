@@ -24,7 +24,7 @@ const useGif = (tag) =>{
         setLoading(false);
 
     }
-    // useEffect is used to fetch the data 
+    // useEffect is used to fetch the data from car
     useEffect(() => {
         fetchData('car');
     }, []);
