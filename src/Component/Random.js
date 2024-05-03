@@ -38,7 +38,7 @@ const Random = () => {
             <button 
             onClick={() => fetchData()}
                 className="w-10/12 bg-yellow-500 text-lg py-2 rounded-lg mb-[20px]">
-                Generate
+                Generate Gifs
             </button>
 
         </div>
