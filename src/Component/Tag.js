@@ -5,7 +5,7 @@ import Spinner from "./Spinner";
 import useGif from "../hooks/useGif";
 
 
-// random giphy api link
+// random giphy api link from open aaaAPI
 const API_KEY = process.env.REACT_APP_GIPHY_API_KEY;
 const Tag = () => {
     const [tag, setTag] = useState("Dog");
