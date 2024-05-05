@@ -12,7 +12,7 @@ const Tag = () => {
     // const [gif, setGif] = useState('');
     // const [loading, setLoading] = useState('false ');
     //
-   //some random gis api
+   //some changes in random api
 
     // async function fetchData() {
     //     setLoading(true);
